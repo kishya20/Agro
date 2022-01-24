@@ -1,0 +1,10 @@
+body::{
+    display: block;
+    content: ;
+    height: 60;
+}
+
+
+@Media(min-width:768px) {
+    width: 50%;
+}
